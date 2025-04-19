@@ -39,8 +39,6 @@ Olá, seja bem-vindo ao meu perfil, me chamo Samuel Lopes, tenho 22 anos, sou de
     <img src="https://skillicons.dev/icons?i=figma,docker,git,mongodb,mysql,postgres&perline=10" />
 </p>
 
-<br />
-
 ---
 
 ### 📊 Estatísticas
