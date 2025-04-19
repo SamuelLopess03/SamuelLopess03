@@ -13,7 +13,7 @@ Olá, seja bem-vindo ao meu perfil, me chamo Samuel Lopes, tenho 22 anos, sou de
         <img 
             alt="Conexões" 
             title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/SamuelLopess03?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Conexões&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/github/followers/SamuelLopess03?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Conexoes&logoColor=white"
         />
     </a>
     <a href="https://github.com/SamuelLopess03?tab=repositories&sort=stargazers">
@@ -45,7 +45,7 @@ Olá, seja bem-vindo ao meu perfil, me chamo Samuel Lopes, tenho 22 anos, sou de
 
 ### 📊 Estatísticas
 
-<p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 15px;">
+<p align="center">
     <img 
         align="left" 
         alt="GitHub Stats" 
@@ -60,10 +60,3 @@ Olá, seja bem-vindo ao meu perfil, me chamo Samuel Lopes, tenho 22 anos, sou de
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelLopess03&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
     />
 </p>
-
----
-
-### 📫 Contatos
-
-[![Email](https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:samuellopes12390@gmail.com)](mailto:samuellopes12390@gmail.com)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/samuel-lopes-719430213)
