@@ -4,9 +4,10 @@
 
 Olá, seja bem-vindo ao meu perfil, me chamo Samuel Lopes, tenho 22 anos, sou desenvolvedor full stack, atualmente estou cursando Ciência da Computação na Universidade Federal do Ceará. Algumas Curiosidades sobre mim:
 
-- 🌱 Atualmente estou estudando Node.js, React.js, Express.js, MongoDB, MySQL, entre outras tecnologias.
-- 🖥️ Tive experiência como Analista de Qualidade, ou seja, consigo ter uma visão mais apurada e crítica sobre cenários de testes.
-- 📈 Amo resolver problemas e desafios, pois é um grande estímulo para meu crescimento pessoal e profissional.
+- 🌱 Estou atualmente aprofundando meus estudos em Node.js, React.js, Express.js, MongoDB, MySQL e outras tecnologias, ampliando meus conhecimentos para desenvolver soluções mais eficientes e inovadoras.
+- 🧠 Também estou me dedicado à pesquisa e ao estudo de Inteligência Artificial, explorando áreas como Machine Learning e Deep Learning, especialmente no desenvolvimento e aplicação de Redes Neurais.
+- 🖥️ Possuo experiência como Analista de Qualidade, o que me permite desenvolver uma visão mais apurada e crítica sobre cenários de testes, garantindo maior eficiência e precisão nas análises.
+- 📈 Gosto de solucionar problemas e enfrentar desafios, pois cada obstáculo representa uma oportunidade valiosa para impulsionar meu crescimento pessoal e profissional.
 
 <p align="center">
     <a href="https://github.com/SamuelLopess03?tab=followers">
@@ -29,9 +30,9 @@ Olá, seja bem-vindo ao meu perfil, me chamo Samuel Lopes, tenho 22 anos, sou de
 
 ### 🧰 Ferramentas e Tecnologias
 
-- Linguagens/Tecnologias para Desenvolvimento:
+- Linguagens de Programação/Tecnologias:
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,react,java,cs,dotnet&perline=10" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,react,java,cs,dotnet,python&perline=10" />
 </p>
 
 - Ferramentas para Desenvolvimento:
