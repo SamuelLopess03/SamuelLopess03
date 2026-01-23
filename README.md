@@ -1,43 +1,64 @@
-# Samuel Lopes 🤖
-
-**`👨🏻‍💻 Desenvolvedor Full Stack`**
-
-Olá, seja bem-vindo ao meu perfil, me chamo Samuel Lopes, tenho 22 anos, sou desenvolvedor full stack, atualmente estou cursando Ciência da Computação na Universidade Federal do Ceará. Algumas Curiosidades sobre mim:
-
-- 🌱 Estou atualmente aprofundando meus estudos em Node.js, React.js, Express.js, MongoDB, MySQL e outras tecnologias, ampliando meus conhecimentos para desenvolver soluções mais eficientes e inovadoras.
-- 🧠 Também estou me dedicado à pesquisa e ao estudo de Inteligência Artificial, explorando áreas como Machine Learning e Deep Learning, especialmente no desenvolvimento e aplicação de Redes Neurais.
-- 🖥️ Possuo experiência como Analista de Qualidade, o que me permite desenvolver uma visão mais apurada e crítica sobre cenários de testes, garantindo maior eficiência e precisão nas análises.
-- 📈 Gosto de solucionar problemas e enfrentar desafios, pois cada obstáculo representa uma oportunidade valiosa para impulsionar meu crescimento pessoal e profissional.
+<h1 align="center">Bem-vindo, Eu sou Samuel Lopes 👋</h1>
 
 <p align="center">
-    <a href="https://github.com/SamuelLopess03?tab=followers">
+  <em>👨🏻‍💻 Desenvolvedor Full Stack • 🧠 Entusiasta de Inteligência Artificial</em>
+</p>
+
+<p align="center">
+  <img src="linux-computer.gif" width="300px" alt="Pinguim Programando" />
+</p>
+
+---
+
+<p align="center">
+  Gosto muito de tecnologia e desenvolvimento de software, sempre busco adquirir novas habilidades.  
+  Aqui você encontrará projetos envolvendo aplicações Full Stack com diferentes tecnologias,  
+  além de ferramentas e aplicações com Inteligência Artificial — e a minha evolução ao longo desse caminho 🚀
+</p>
+
+<p align="center">
+    <a href="https://www.linkedin.com/in/seu-usuario-linkedin" target="_blank">
         <img 
-            alt="Conexões" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/SamuelLopess03?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Conexoes&logoColor=white"
+            alt="LinkedIn" 
+            title="Me Siga no LinkedIn" 
+            src="https://img.shields.io/badge/-LinkedIn-236ad3?style=for-the-badge&logo=linkedin&logoColor=white"
         />
     </a>
-    <a href="https://github.com/SamuelLopess03?tab=repositories&sort=stargazers">
+    <a href="" target="_blank">
         <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/SamuelLopess03?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+            alt="Portfolio" 
+            title="Veja Meus Projetos" 
+            src="https://img.shields.io/badge/-Portfolio-FF5733?style=for-the-badge&logo=Google-Chrome&logoColor=white"
         />
+    </a>
+    <a href="mailto:samuellopes.tech@gmail.com">
+        <img
+            title="Entre em Contato Comigo"
+            src="https://img.shields.io/badge/-samuellopes.tech@gmail.com-E60023?style=for-the-badge&logo=Gmail&logoColor=white"
+        >
     </a>
 </p>
 
 ---
 
-### 🧰 Ferramentas e Tecnologias
+### 🧩 Tecnologias Utilizadas
 
-- Linguagens de Programação/Tecnologias:
+> Ferramentas, linguagens, frameworks e infraestrutura que utilizo no desenvolvimento de aplicações modernas e escaláveis.
+
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,react,java,cs,dotnet,python&perline=10" />
+  <img src="https://skillicons.dev/icons?i=git,figma,docker,mongodb,mysql,postgres,redis,rabbitmq&perline=10" />
 </p>
 
-- Ferramentas para Desenvolvimento:
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=figma,docker,git,mongodb,mysql,postgres&perline=10" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,java,cs,python&perline=10" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,next,express,spring&perline=10" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,vercel&perline=10" />
 </p>
 
 ---
@@ -45,17 +66,18 @@ Olá, seja bem-vindo ao meu perfil, me chamo Samuel Lopes, tenho 22 anos, sou de
 ### 📊 Estatísticas
 
 <p align="center">
-    <img 
-        align="left" 
-        alt="GitHub Stats" 
-        height="170" 
-        style="padding-right: 10px;" 
-        src="https://github-readme-stats.vercel.app/api?username=SamuelLopess03&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-    />
-    <img 
-        align="left" 
-        alt="GitHub Stats" 
-        height="170" 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelLopess03&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-    />
+  <img 
+    width="49%" 
+    height="200"
+    src="https://github-readme-stats.vercel.app/api?username=SamuelLopess03&show_icons=true&hide_border=true&title_color=00ff99&text_color=ffffff&icon_color=00ff99&bg_color=0d1117&layout=compact" 
+  />
+  <img 
+    width="49%"
+    height="200" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelLopess03&layout=compact&hide_border=true&title_color=00ff99&text_color=ffffff&bg_color=0d1117" 
+  />
+</p>
+
+<p align="center">
+  <em>Evoluindo sempre. Linha por linha, commit por commit.</em> 🟩
 </p>
