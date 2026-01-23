@@ -11,7 +11,7 @@
 ---
 
 <p align="center">
-  Gosto muito de tecnologia e desenvolvimento de software, sempre busco adquirir novas habilidades.  
+  Gosto muito de tecnologia e desenvolvimento de software, sempre busco adquirir novas habilidades. </br> 
   Aqui você encontrará projetos envolvendo aplicações Full Stack com diferentes tecnologias,  
   além de ferramentas e aplicações com Inteligência Artificial — e a minha evolução ao longo desse caminho 🚀
 </p>
@@ -38,6 +38,15 @@
         >
     </a>
 </p>
+
+---
+
+### 🧠 Sobre mim
+
+- ✨ Atualmente atuando e me aprofundando em **Desenvolvimento FullStack**
+- 🤖 Paralelamente, pesquisando e aprendendo mais sobre **Inteligência Artificial**
+- 🔭 Experiência como **Analista de Qualidade** em uma InfraTech: [Fitbank](https://www.fitbank.com.br/)
+- 🎓 Bacharelando em **Ciência da Computação**
 
 ---
 
