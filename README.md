@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-    <a href="https://www.linkedin.com/in/seu-usuario-linkedin" target="_blank">
+    <a href="https://www.linkedin.com/in/samuel-lopes-719430213" target="_blank">
         <img 
             alt="LinkedIn" 
             title="Me Siga no LinkedIn" 
