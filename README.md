@@ -63,7 +63,7 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,next,express,spring&perline=10" />
+  <img src="https://skillicons.dev/icons?i=react,next,express,spring,nodejs&perline=10" />
 </p>
 
 <p align="center">
