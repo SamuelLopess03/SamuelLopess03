@@ -24,7 +24,7 @@
             src="https://img.shields.io/badge/-LinkedIn-236ad3?style=for-the-badge&logo=linkedin&logoColor=white"
         />
     </a>
-    <a href="https://portfolio-web-samuel-devs-projects.vercel.app/" target="_blank">
+    <a href="https://portfolio-web-eight-theta.vercel.app" target="_blank">
         <img 
             alt="Portfolio" 
             title="Veja Meus Projetos" 
